@@ -1,7 +1,3 @@
-Here is the suggested content for your `README.md` file:
-
----
-
 # **Features and Functionalities Documentation**
 
 This document provides an overview of the key features and functionalities required for the backend of the Airbnb Clone project. The attached diagram visually represents the system's core components, interactions, and processes, ensuring a scalable, secure, and user-friendly application.
