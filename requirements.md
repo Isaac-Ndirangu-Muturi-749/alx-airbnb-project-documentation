@@ -1,7 +1,3 @@
-Here is the suggested content for the **`requirements.md`** file based on the task instructions:
-
----
-
 # Backend Requirement Specifications for Airbnb Clone
 
 This document outlines the technical and functional requirements for key backend features of the Airbnb Clone project.
